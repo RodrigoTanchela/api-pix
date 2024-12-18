@@ -1,3 +1,8 @@
+# Security file
+credentials.json
+env.properties
+certs
+
 # Compiled class file
 *.class
 
